@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Reservations": {
+    "dataSource": "db",
+    "public": true
   }
 }

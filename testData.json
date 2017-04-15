@@ -1,0 +1,29 @@
+{
+  "ids": {
+    "User": 3,
+    "AccessToken": 6,
+    "ACL": 1,
+    "RoleMapping": 1,
+    "Role": 1,
+    "Reservations": 3
+  },
+  "models": {
+    "User": {
+      "1": "{\"realm\":\"admin\",\"username\":\"Danwakeem\",\"password\":\"$2a$10$ZdUktHcpojjrGOdm6WUNIe3W23SfIh.WmriDPi9aIJGLH9o0ufyS2\",\"email\":\"Danwakeem@gmail.com\",\"id\":1}",
+      "2": "{\"realm\":\"customer\",\"username\":\"test\",\"password\":\"$2a$10$9cAoOHW8dFiCMDHRXCddwOwVAtKC4cdanBSMqlXQQgwI/fte2/9SS\",\"email\":\"test@gmail.com\",\"id\":2}"
+    },
+    "AccessToken": {
+      "nRUZyEgBCxjxeSW7jqYiz7wKhpO0NhyzF2MSJvgxkaYpFGQepvsteXvZIajE6KM7": "{\"id\":\"nRUZyEgBCxjxeSW7jqYiz7wKhpO0NhyzF2MSJvgxkaYpFGQepvsteXvZIajE6KM7\",\"ttl\":1209600,\"created\":\"2017-04-15T18:16:25.777Z\",\"userId\":1}",
+      "U7T68PY45ZEbWi4fIMXWOUByWezBnKiNdHt9rdEmMIu3k2bcuDtFcUtVXlkH2cFm": "{\"id\":\"U7T68PY45ZEbWi4fIMXWOUByWezBnKiNdHt9rdEmMIu3k2bcuDtFcUtVXlkH2cFm\",\"ttl\":1209600,\"created\":\"2017-04-15T18:16:59.044Z\",\"userId\":2}",
+      "Lff4XInMzHE2fxCKyxZfvVAlWEkpPAH3TebPWq2cq8EC6CPcoEuPsVEMJPueIRGK": "{\"id\":\"Lff4XInMzHE2fxCKyxZfvVAlWEkpPAH3TebPWq2cq8EC6CPcoEuPsVEMJPueIRGK\",\"ttl\":1209600,\"created\":\"2017-04-15T18:22:22.391Z\",\"userId\":2}",
+      "NJZzuQCaPMDehEitUUTtjFYWboTd68bL5fnJ7TUyyZXD7oUs4IRVh5Y3EQvfOqqj": "{\"id\":\"NJZzuQCaPMDehEitUUTtjFYWboTd68bL5fnJ7TUyyZXD7oUs4IRVh5Y3EQvfOqqj\",\"ttl\":1209600,\"created\":\"2017-04-15T18:23:17.812Z\",\"userId\":2}",
+      "6jNY0Thb0dBEeCRLQD9amrECHZttomxyVE37xax3ECGqcnArTHrFTUbvPtITStrC": "{\"id\":\"6jNY0Thb0dBEeCRLQD9amrECHZttomxyVE37xax3ECGqcnArTHrFTUbvPtITStrC\",\"ttl\":1209600,\"created\":\"2017-04-15T18:26:38.811Z\",\"userId\":2}"
+    },
+    "ACL": {},
+    "RoleMapping": {},
+    "Role": {},
+    "Reservations": {
+      "2": "{\"title\":\"New Reservation\",\"description\":\"I would like a quick massage\",\"from\":\"2017-04-15T18:41:15.734Z\",\"to\":\"2017-04-15T19:11:15.734Z\",\"userId\":1,\"timeEstimated\":0.5,\"type\":\"message\",\"metadata\":{},\"id\":2}"
+    }
+  }
+}
